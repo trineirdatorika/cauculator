@@ -1,1 +1,1 @@
-# cauculator
+# calculator
